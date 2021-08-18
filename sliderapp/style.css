@@ -1,0 +1,12 @@
+.container{
+    padding:10px;
+    margin-left:50px;
+}
+.card{
+    width:18rem;
+    margin-left:10px;
+    
+}
+.fas{
+    cursor: pointer;
+}
